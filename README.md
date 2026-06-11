@@ -2,6 +2,10 @@
 
 Public agent skills for using PDF Vector APIs.
 
+View the skill on skills.sh:
+
+https://www.skills.sh/khanhduyvt0101/pdfvector-skills/pdfvector-api
+
 Install the API skill:
 
 ```bash
